@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>sum_of_even_and__product_of_odd_numbers</RootNamespace>
+  </PropertyGroup>
+
+</Project>
