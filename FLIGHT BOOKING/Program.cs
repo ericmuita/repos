@@ -15,7 +15,7 @@ namespace FLIGHT_BOOKING
             string name, destination, category, countryofresidence;
             int passport;
             decimal amount = 5534566;
-            Flight book = new Flight();
+            Flight1 book = new Flight1();
             WriteLine("enter your name");
             book.Nameofcustomer = ReadLine();
             WriteLine("enter your passport number");
@@ -32,6 +32,7 @@ namespace FLIGHT_BOOKING
             book.returnhome = bool.Parse(ReadLine());
             WriteLine("the flight has been successfully booked ");
             Clear();
+            WriteLine("FLIGHT BOOKING RECEIPT");
             WriteLine("Name:"+book.Nameofcustomer);
             WriteLine("Passport:"+book.Passport);
             WriteLine("Amount:"+amount);
@@ -42,5 +43,6 @@ namespace FLIGHT_BOOKING
 
 
         }
+ 
     }
 }

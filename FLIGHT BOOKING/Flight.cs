@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FLIGHT_BOOKING
 {
-    public class Flight
+    public class Flight1
     {
         public string Flightname { get; set; }
         public string Destination { get; set; }
