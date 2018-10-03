@@ -15,6 +15,7 @@ namespace ConsoleApp13
             {
                  y = 1;
             }
+            Console.Readkey();
         }
     }
 }
