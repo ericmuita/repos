@@ -46,8 +46,8 @@ namespace tuples1
 
          static(int? cat1,int? cat2,int? cat3)?cats()
         {
-            int? cat1 = null;
-            int? cat2 = 20;
+            int? cat1 = 20;
+            int? cat2 = 15;
             int? cat3 = 25;
             var result = Tuple.Create(cat1, cat2, cat3);
             return (cat1,cat2,cat3);
