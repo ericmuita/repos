@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXPENDITURE APPLICATION", "EXPENDITURE APPLICATION.csproj", "{857C0450-A4EA-4F46-837A-C8D98D0653AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857C0450-A4EA-4F46-837A-C8D98D0653AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857C0450-A4EA-4F46-837A-C8D98D0653AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857C0450-A4EA-4F46-837A-C8D98D0653AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857C0450-A4EA-4F46-837A-C8D98D0653AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3024EA4-8D7A-457B-902F-E410EFB26A75}
+	EndGlobalSection
+EndGlobal
